@@ -1,0 +1,2 @@
+# SQLite is part of Python's standard library.
+# No third-party database driver is required.
